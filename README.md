@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 🎓 Computer Science student at Brawijaya University  <br>💻 Future DevSecOps Engineer in the making  <br>🚀 Passionate about tech, cybersecurity, and cloud development  <br>🏆 National & international competition medalist (science, language, business, you name it!)  <br>🌱 Currently learning: Linux, Python, Git, and DevOps tools  <br>🛡️ Dreaming of a world where security is baked into every line of code  <br>🧠 I love solving problems, breaking things (ethically 😉), and learning how to fix them better<br>
 
