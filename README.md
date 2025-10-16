@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&pause=1000&color=9FB6C3&width=435&lines=Hi%2C+I'm+Aryan+Zaky+Prayogo!;Computer+Science+Student+%40UB;DevSecOps+Enthusiast" alt="Typing SVG" />
+  
 # 💫 About Me:
 🎓 Computer Science student at Brawijaya University  <br>💻 Future DevSecOps Engineer in the making  <br>🚀 Passionate about tech, cybersecurity, and cloud development  <br>🏆 National & international competition medalist (science, language, business, you name it!)  <br>🌱 Currently learning: Linux, Python, Git, and DevOps tools  <br>🛡️ Dreaming of a world where security is baked into every line of code  <br>🧠 I love solving problems, breaking things (ethically 😉), and learning how to fix them better<br>
 
